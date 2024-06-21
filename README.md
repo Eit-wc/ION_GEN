@@ -1,2 +1,2 @@
 # ION_GEN
-The simple and lightweight framework to generate the chain of thought.
+ION_GEN (IONECT Generative AI), The simple and lightweight framework to generate the chain of thought.
